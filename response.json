@@ -1,0 +1,45 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "## 食材：\n\n* 鸡蛋 2 个\n* 番茄 2 个\n* 食用油 1 汤匙\n* 葱花 适量\n* 盐 适量\n* 鸡精 适量\n\n## 步骤：\n\n1. 番茄洗净切块，葱花切碎备用。\n\n\n2. 将鸡蛋打入碗中，加入适量盐和鸡精，搅拌均匀。\n\n\n3. 锅中倒入食用油，烧热后倒入鸡蛋液，不断翻炒至鸡蛋凝固。\n\n\n4. 将番茄块倒入锅中，翻炒至番茄变软。\n\n\n5. 加入适量盐和鸡精，翻炒均匀即可出锅。\n\n\n6. 将炒好的番茄炒蛋装盘，撒上葱花即可食用。\n\n\n\n## 烹饪技巧：\n\n* 在炒番茄时，先加入适量白糖，可以使番茄炒蛋更酸甜可口。\n\n\n* 在炒鸡蛋时，可以加入适量牛奶，可以使鸡蛋更嫩滑。\n\n\n* 在出锅时，可以加入适量香油，可以使番茄炒蛋更香。"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0,
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        { "category": "HARM_CATEGORY_HARASSMENT", "probability": "NEGLIGIBLE" },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ]
+    }
+  ],
+  "promptFeedback": {
+    "safetyRatings": [
+      {
+        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+        "probability": "NEGLIGIBLE"
+      },
+      { "category": "HARM_CATEGORY_HATE_SPEECH", "probability": "NEGLIGIBLE" },
+      { "category": "HARM_CATEGORY_HARASSMENT", "probability": "NEGLIGIBLE" },
+      {
+        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+        "probability": "NEGLIGIBLE"
+      }
+    ]
+  }
+}
